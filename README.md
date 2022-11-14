@@ -5,7 +5,7 @@
 
 ### Homework description
 
-Task description in [Moodle](https://e-learning.hdm-stuttgart.de/moodle/mod/page/view.php?id=266397)
+See task description in Moodle.
 
 ---
 
